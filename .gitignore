@@ -8,5 +8,5 @@ public/
 themes/
 
 # but not this
-!public/demo/
-!public/html/
+!public/demo/*
+!public/html/*
